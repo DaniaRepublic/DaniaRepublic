@@ -1,7 +1,1 @@
-Hello, my name is Ivanuel, and ever since I was a kid, I’ve been fascinated by how things work—whether it was taking apart remote controls or writing my first lines of code in Python. That curiosity led me to pursue a career in software development, where I get to turn ideas into reality through clean, efficient code. Over the years, I’ve worked on everything from backend systems that process millions of transactions to interactive 3D applications using WebGL and Three.js.
-
-Right now, I’m focused on building a networking-first game engine in TypeScript, designed for fast-paced multiplayer browser games. I’ve implemented client-side prediction and server reconciliation, allowing for smooth gameplay despite network delays. I also work with Three.js for rendering and Rapier.js for physics, ensuring high performance and realistic simulations. Beyond game development, I have experience in web application development, backend architecture, and database management, particularly using Supabase and SQLite.
-
-Looking ahead, I want to refine my engine, optimize real-time synchronization, and eventually launch a multiplayer game that showcases its capabilities. My goal is to push the boundaries of browser-based gaming, making it as seamless and engaging as native applications. If you’re working on something similar or need expertise in TypeScript, WebGL, or game networking, I’d love to connect.
-
-Technical Skills: TypeScript, JavaScript, WebSockets, Three.js, Rapier.js, SQLite, Supabase, Node.js, Deno, FastHTML
+Hello, my name is Dania, i'm currently dabling in game making
