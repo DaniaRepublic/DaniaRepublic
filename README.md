@@ -1,1 +1,7 @@
-Hello, my name is Ivn, i'm currently dabling in game making
+## About Me
+
+Hello! I'm Ivan, a senior Computer Science major with a passion for low-level systems programming and game engine architecture. Ever since I wrote my first "Hello, World!" in C, I've been fascinated by how code translates into real-time experiences. Over the past three years at UIC, I've built several C-based projects—from command-line tools that automate data processing to a full tile-based game engine with a real-time level editor—honing my skills in C, CMake, Makefiles, and performance profiling.
+
+Currently, I'm diving deeper into cross-platform development and multiplayer networking. I maintain my C-Game Engine repository, where I've implemented an Entity–Component System, optimized data structures to sustain 2,000 active entities at 60 FPS, and authored Python scripts for automated performance analysis. I contribute to open-source libraries for asset packaging and enjoy collaborating via Git submodules to keep dependencies clean and reproducible. Outside of coding, I mentor freshmen in the UIC CS club and write blog posts about systems-level optimizations.
+
+Looking ahead, I'm eager to explore physics integration (Rapier C port) and real-time network synchronization to power small-scale multiplayer prototypes. I'm open to full-time software engineering roles starting Summer 2026—ideally on teams tackling performance-critical systems or game-development pipelines. Let's connect if you're interested in low-level code, real-time engines, or just swapping optimization tricks!
