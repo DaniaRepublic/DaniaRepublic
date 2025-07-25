@@ -1,3 +1,5 @@
+[AI generated description of me]
+
 ## About Me
 
 Hello! I'm Ivan, a senior Computer Science major with a passion for low-level systems programming and game engine architecture. Ever since I wrote my first "Hello, World!" in C, I've been fascinated by how code translates into real-time experiences. Over the past three years at UIC, I've built several C-based projects—from command-line tools that automate data processing to a full tile-based game engine with a real-time level editor—honing my skills in C, CMake, Makefiles, and performance profiling.
