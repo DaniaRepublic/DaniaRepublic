@@ -1,9 +1,43 @@
-[AI generated description of me]
+[Prompt to ChatGPT](https://chatgpt.com/s/t_6883674fe7e8819181bfa0dbbdd9fb54)
+Use all your knowledge of me and write my description for profile page README.md on github:
 
-## About Me
+[Response]
+## 👋 Hi, I’m Ivan Markin
 
-Hello! I'm Ivan, a senior Computer Science major with a passion for low-level systems programming and game engine architecture. Ever since I wrote my first "Hello, World!" in C, I've been fascinated by how code translates into real-time experiences. Over the past three years at UIC, I've built several C-based projects—from command-line tools that automate data processing to a full tile-based game engine with a real-time level editor—honing my skills in C, CMake, Makefiles, and performance profiling.
+I'm a systems-minded programmer, passionate about building efficient and purposeful software—from 3D game engines and low-latency multiplayer networking to web frameworks and options trading models.
 
-Currently, I'm diving deeper into cross-platform development and multiplayer networking. I maintain my C-Game Engine repository, where I've implemented an Entity–Component System, optimized data structures to sustain 2,000 active entities at 60 FPS, and authored Python scripts for automated performance analysis. I contribute to open-source libraries for asset packaging and enjoy collaborating via Git submodules to keep dependencies clean and reproducible. Outside of coding, I frequent a local chess clubs and do cycling.
+### 🛠️ What I Do
+- 🔧 Building fast, multiplayer-first 3D game engines in **TypeScript** for the browser  
+- 🧠 Designing shared logic across server and client for real-time gameplay  
+- 🎮 Integrating **Three.js**, **Rapier.js**, and **Supabase** for graphics, physics, and persistence  
+- 🔍 Exploring performance tradeoffs in data structures, concurrency, and algorithms (Go, C++)  
+- 💹 Trading options with custom breakeven and return calculators  
+- 🔐 Building embedded systems for class projects (Arduino security systems)  
+- ⚡ Configuring my workflow with **Neovim (Lua, LazyVim)** and tailored Zsh scripts  
 
-Looking ahead, I'm eager to explore physics simulations and real-time network synchronization to power small-scale multiplayer prototypes. I'm open to full-time software engineering roles starting Summer 2026, ideally on teams tackling performance-critical systems or game-development pipelines. Let's connect if you're interested in low-level code or real-time engines!
+### 📚 Interests
+- 🚀 Game development, multiplayer architecture, and ECS patterns (like Flecs)  
+- 🔬 System performance, serialization, and physics simulations  
+- 🧠 Theoretical CS problems—bias-variance tradeoffs, graph theory, optimization  
+- 📖 Russian literature and scene dissection  
+
+### 🧪 Tools & Languages I Use Often
+- TypeScript, Go, C/C++, Lua, Python  
+- Three.js, Rapier.js, Supabase, Flecs, Raylib  
+- Neovim, Deno, SQLite, Box2D  
+- Git, Zsh, tmux, Markdown  
+
+### 📂 Selected Projects
+- 🕹️ **[Multiplayer 3D Game Engine](#)**: Tick-based server-authoritative engine for browsers  
+- 🔁 **Options Trading Toolkit**: Calculate returns and breakeven for complex strategies  
+- 📦 **Flecs Serialization Layer**: Custom JSON serialization for ECS worlds  
+- 🔐 **Arduino Security System**: Real-world hardware security prototype  
+
+### 🧭 Goals
+- Optimize for simplicity, performance, and clarity  
+- Build things that are small, fast, and fun  
+- Always learning, always shipping
+
+---
+
+📫 Reach me here or on Twitter/X @ivanmarkin (if listed)
