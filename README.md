@@ -1,4 +1,4 @@
-[Prompt to ChatGPT]
+[ Prompt to ChatGPT ]
 
 Use all your knowledge of me and write my description for profile page README.md on github:
 
