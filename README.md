@@ -4,7 +4,7 @@ Use all your knowledge of me and write my description for profile page README.md
 
 [ [Response](https://chatgpt.com/s/t_6883674fe7e8819181bfa0dbbdd9fb54) ]
 
-## 👋 Hi, I’m Ivan Markin
+## 👋 Hi, I’m [name redacted]
 
 I'm a systems-minded programmer, passionate about building efficient and purposeful software—from 3D game engines and low-latency multiplayer networking to web frameworks and options trading models.
 
@@ -42,4 +42,4 @@ I'm a systems-minded programmer, passionate about building efficient and purpose
 
 ---
 
-📫 Reach me here or on Twitter/X @ivanmarkin (if listed)
+📫 Reach me here or on Twitter/X @[name redacted] (if listed)
