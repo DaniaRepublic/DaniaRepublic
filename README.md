@@ -1,7 +1,8 @@
-[Prompt to ChatGPT](https://chatgpt.com/s/t_6883674fe7e8819181bfa0dbbdd9fb54)
+[ [Prompt to ChatGPT](https://chatgpt.com/s/t_6883674fe7e8819181bfa0dbbdd9fb54) ]
+
 Use all your knowledge of me and write my description for profile page README.md on github:
 
-[Response]
+[ Response ]
 ## 👋 Hi, I’m Ivan Markin
 
 I'm a systems-minded programmer, passionate about building efficient and purposeful software—from 3D game engines and low-latency multiplayer networking to web frameworks and options trading models.
